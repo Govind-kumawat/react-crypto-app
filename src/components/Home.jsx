@@ -1,7 +1,8 @@
 import React from 'react'
 import { Box, Image, Text } from '@chakra-ui/react'
-import btcSrc from '../assets/btc.png'
 import { motion } from 'framer-motion'
+
+const btcSrc = "https://www.freepnglogos.com/uploads/bitcoin-png/bitcoinpaygate-bitcoin-payment-gateway-payment-processor-7.png"
 
 const Home = () => {
     return (
