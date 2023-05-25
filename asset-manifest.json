@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/react-crypto-app/static/js/main.d008c194.js",
+    "static/media/IMG-20230218-WA0009.jpg": "/react-crypto-app/static/media/IMG-20230218-WA0009.3bb969df24cd08671f42.jpg",
+    "index.html": "/react-crypto-app/index.html",
+    "main.d008c194.js.map": "/react-crypto-app/static/js/main.d008c194.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d008c194.js"
+  ]
+}
